@@ -1,6 +1,6 @@
 # datasciencecoursera
 
-Course: Data-Science
+## Course: Data-Science
 
 I'm taking the Johns Hopkins University - Data Science specialization course at coursera.org.
 
